@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rits-1323&label=Profile%20views&color=0e75b6&style=flat" alt="rits-1323" /> </p>
 
 
-- 🔭 I’m currently working on [ApexView](https://github.com/chaRITSzard/Apexview)
+- 🔭 I’m currently working on [Customer-Churn-xai](https://github.com/chaRITSzard/customer-churn-xai)
 
 - 🌱 I’m currently learning **the connection of Computer Science and Mathematics**
 
