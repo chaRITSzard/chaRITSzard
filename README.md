@@ -68,7 +68,7 @@ Currently working on an **Explainable AI system for customer churn prediction**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rits-1323&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=chaRITSzard&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
